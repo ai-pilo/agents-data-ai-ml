@@ -1,24 +1,26 @@
 {
+  "name": "agents-data-ai-ml",
+  "owner": "ai-pilo",
   "plugins": [
     {
       "name": "machine-learning-ops",
       "version": "1.2.2",
-      "path": "plugins/machine-learning-ops"
+      "source": "plugins/machine-learning-ops"
     },
     {
       "name": "llm-application-dev",
       "version": "1.2.2",
-      "path": "plugins/llm-application-dev"
+      "source": "plugins/llm-application-dev"
     },
     {
       "name": "data-engineering",
       "version": "1.2.2",
-      "path": "plugins/data-engineering"
+      "source": "plugins/data-engineering"
     },
     {
       "name": "data-validation-suite",
       "version": "1.2.2",
-      "path": "plugins/data-validation-suite"
+      "source": "plugins/data-validation-suite"
     }
   ]
 }
